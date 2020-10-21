@@ -1,4 +1,2 @@
-server:
-  port: 3333
 config:
   info: "master baranch,springcloud-config"
